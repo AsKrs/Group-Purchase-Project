@@ -55,7 +55,7 @@
 
 .navbar-signup,
 .navbar-login {
-  margin-right:px;
+  border-radius: 10px;
   font-size: 16px;
   margin-left: 1rem;
   padding: 0.5rem 1rem;
